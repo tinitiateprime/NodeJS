@@ -20,4 +20,4 @@
 
 # Steps to run  Node js
 
-* install NOde js for your workspace: 
+* install Node js for your workspace: 
