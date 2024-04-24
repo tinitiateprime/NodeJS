@@ -3,7 +3,7 @@
 ## [Introduction](./Introduction.md)
 
 
-## [Environment Setup](./installing%20node.md)
+## [Environment Setup](./installing-node.md)
 
 ## [First Project in NodeJS](./first-nodejs.md)
 
