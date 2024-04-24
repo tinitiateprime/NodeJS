@@ -18,11 +18,18 @@
 * All the files nust be initiated with a server file.
 * the files have a extension '.js'
 
-# Steps to run  Node js
+## Understanding package.json
 
-* install Node js for your workspace: 
+The `package.json` file is a metadata file in Node.js projects that contains various information about the project, including its name, version, dependencies, scripts, and more. It is used to manage the project's dependencies and scripts.
 
 
+## Installing Packages
+
+To install packages in a Node.js project using npm, you can use the following command:
+
+```sh
+npm install <package-name>
+```
 
 # Node modules 
 ```
@@ -31,7 +38,5 @@
  const fs = require('fs')
 
 ```
-
-
 
 

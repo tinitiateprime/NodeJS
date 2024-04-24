@@ -85,3 +85,30 @@ http.createServer(function (req, res) {
 - fs.writeFile()
 
 * The fs.appendFile() method appends specified content to a file. If the file does not exist, the file will be created:
+
+```
+var fs = require('fs');
+
+fs.appendFile('mynewfile1.txt', 'Hello content!', function (err) {
+  if (err) throw err;
+  console.log('Saved!');
+});
+
+```
+
+### fs.writeFile()
+* The fs.writeFile() method replaces the specified file and content if it exists. If the file does not exist, a new file, containing the specified content, will be created:
+
+```
+var fs = require('fs');
+
+fs.writeFile('mynewfile3.txt', 'Hello content!', function (err) {
+  if (err) throw err;
+  console.log('Saved!');
+});
+
+```
+### Update Files
+
+* The fs.appendFile() method appends the specified content at the end of the specified file:
+
