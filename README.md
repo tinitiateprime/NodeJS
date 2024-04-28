@@ -30,21 +30,14 @@
 
 ## [Testing](./nodejs-testing.md)
 
-## Debugging and Profiling
-- Using Node.js debugger
-- Profiling Node.js applications
-- Memory leak identification
+## [Debugging and Profiling](./nodejs-debugging.md)
 
-## Advanced Topics
-- Working with clusters
-- Child processes
-- Security practices
-- Error handling strategies
 
-## Deployment
-- Containerization with Docker
-- Deploying Node.js applications on cloud platforms (AWS, Azure, Heroku)
-- Using CI/CD pipelines for deployment
+## [Advanced Topics](./nodejs-advanced.md)
+
+
+## [Deployment](./nodejs-deployment.md)
+
 
 ## Best Practices
 - Code organization
@@ -52,7 +45,5 @@
 - Keeping dependencies updated
 - Security best practices
 
-## Resources
-- Further reading
-- Online communities
-- Recommended packages and tools
+## [Resources](./nodejs-resources.md)
+- 
